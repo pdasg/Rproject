@@ -1,0 +1,15 @@
+Package: speedConversion
+Type: Package
+Title: Functions for speed units conversion.
+Version: 1.0
+Date: 2014-07-26
+Author: Purnima Dasgupta <purnima.dasgupta27@gmail.com>
+Maintainer: Purnima Dasgupta <purnima.dasgupta27@gmail.com>
+Description: The package contains a list of functions that convert units of
+    speed (specially windspeeds) from one unit to another. There are 10 sets of
+    unit conversions therefore 20 functions inlcuding vice-versa cases. All
+    conversion formulae are sourced from National Weather Service and Weather
+    Forecast Office (NOAA).
+License: MIT
+Depends:
+    R (>= 3.0.2)
